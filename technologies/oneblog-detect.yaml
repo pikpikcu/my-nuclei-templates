@@ -4,7 +4,7 @@ info:
   name: YApi Detect
   author: pikpikcu
   severity: info
-  tags: tech,yapi
+  tags: tech,oneblog
 
 requests:
   - method: GET
