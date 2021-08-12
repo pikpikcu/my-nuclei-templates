@@ -1,7 +1,7 @@
 id: oneblog-detect
 
 info:
-  name: YApi Detect
+  name: OneBlog Detect
   author: pikpikcu
   severity: info
   tags: tech,oneblog
